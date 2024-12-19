@@ -14,6 +14,7 @@ header {
 .menu {
   max-width: 75vw;
   margin: auto;
+  padding: 10px 0;
   display: flex;
   justify-content: space-between;
 }
@@ -40,12 +41,15 @@ li {
 .hero {
   max-width: 75vw;
   margin: auto;
+  padding: 60px 0;
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .hero-content {
-  max-width: 35vw;
+  /* max-width: 600px; */
+  max-width: 45vw;
 }
 
 .hero-title {
