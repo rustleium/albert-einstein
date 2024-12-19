@@ -40,6 +40,12 @@ li {
 .hero {
   max-width: 75vw;
   margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.hero-content {
+  max-width: 35vw;
 }
 
 .hero-title {
