@@ -48,8 +48,7 @@ li {
 }
 
 .hero-content {
-  /* max-width: 600px; */
-  max-width: 45vw;
+  max-width: 600px;
 }
 
 .hero-title {
