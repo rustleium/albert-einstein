@@ -60,6 +60,16 @@ li {
   color: #e5e7eb;
 }
 
+.btn-signup {
+  padding: 7px 22px;
+  background-color: #3882f6;
+  color: #e5e7e5;
+  border-radius: 6px;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+}
+
 .hero-image img {
   border-radius: 10px;
 }
