@@ -60,6 +60,13 @@ li {
   color: #e5e7eb;
 }
 
+.info-section {
+  display: flex;
+  flex-direction: column;
+  padding: 60px 0px;
+  align-items: center;
+}
+
 .info-items {
   max-width: 75vw;
   margin: auto;
