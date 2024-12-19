@@ -6,3 +6,23 @@
   box-sizing: border-box;
   font-family: Roboto, sans-serif;
 }
+
+.menu {
+  max-width: 75vw;
+  margin: auto;
+}
+
+.hero {
+  max-width: 75vw;
+  margin: auto;
+}
+
+.info-items {
+  max-width: 75vw;
+  margin: auto;
+}
+
+.cta {
+  max-width: 75vw;
+  margin: auto;
+}
