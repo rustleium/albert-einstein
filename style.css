@@ -87,6 +87,11 @@ li {
   border-radius: 8px;
 }
 
+.info-item p {
+  text-align: center;
+  max-width: 150px;
+}
+
 .cta {
   max-width: 75vw;
   margin: auto;
