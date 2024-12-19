@@ -121,3 +121,9 @@ blockquote {
 .cta-content {
   max-width: 60%;
 }
+
+.cta-button {
+  flex: 0 1 auto;
+  height: 33px;
+  width: 66px;
+}
