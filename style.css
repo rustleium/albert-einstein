@@ -116,6 +116,7 @@ blockquote {
   padding: 24px 107px;
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .cta-content {
