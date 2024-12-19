@@ -60,6 +60,10 @@ li {
   color: #e5e7eb;
 }
 
+.hero-image img {
+  border-radius: 10px;
+}
+
 .info-section {
   display: flex;
   flex-direction: column;
