@@ -63,8 +63,12 @@ li {
 .info-section {
   display: flex;
   flex-direction: column;
-  padding: 60px 0px;
+  padding: 37px 0px 60px 0px;
   align-items: center;
+}
+
+h2 {
+  margin-bottom: 30px;
 }
 
 .info-items {
@@ -72,6 +76,7 @@ li {
   margin: auto;
   display: flex;
   justify-content: center;
+  gap: 20px;
 }
 
 .info-item {
