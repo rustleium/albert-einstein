@@ -110,7 +110,8 @@ blockquote {
 
 .cta {
   max-width: 75vw;
-  margin: auto;
+  margin: 60px auto;
   background-color: #3882f6;
   color: #f9faf8;
+  padding: 24px 107px;
 }
