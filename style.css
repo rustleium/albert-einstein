@@ -10,6 +10,12 @@
 .menu {
   max-width: 75vw;
   margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.links {
+  display: flex;
 }
 
 a {
