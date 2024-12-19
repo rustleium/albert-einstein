@@ -114,4 +114,6 @@ blockquote {
   background-color: #3882f6;
   color: #f9faf8;
   padding: 24px 107px;
+  display: flex;
+  justify-content: space-between;
 }
