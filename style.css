@@ -70,6 +70,14 @@ li {
 .info-items {
   max-width: 75vw;
   margin: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.info-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .info-icon {
