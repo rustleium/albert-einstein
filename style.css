@@ -122,3 +122,12 @@ blockquote {
 .cta-content {
   max-width: 60%;
 }
+
+.footer {
+  background-color: #1f2937;
+  color: #e5e7eb;
+  height: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
