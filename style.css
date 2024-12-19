@@ -111,4 +111,6 @@ blockquote {
 .cta {
   max-width: 75vw;
   margin: auto;
+  background-color: #3882f6;
+  color: #f9faf8;
 }
